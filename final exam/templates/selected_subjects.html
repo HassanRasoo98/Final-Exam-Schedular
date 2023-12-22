@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processed Subjects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Processed Subjects:</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Subject</th>
+                <th>Day Name</th>
+                <th>Days & Date</th>
+                <th>Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for entry in processed_result %}
+                <tr>
+                    <td>{{ entry.Subject }}</td>
+                    <td>{{ entry.Day_Name }}</td>
+                    <td>{{ entry["Days & Date"] }}</td>
+                    <td>{{ entry.Time }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Subjects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        input[type="checkbox"] {
+            margin-right: 5px;
+        }
+
+        label {
+            display: block;
+            margin: 5px 0;
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            display: none; /* Hide the original select element */
+        }
+
+        /* Style for the selected subjects */
+        .selected-subjects {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Select your subjects:</h2>
+    <form method="POST" action="/process">
+        <label for="search">Search subjects:</label>
+        <input type="text" id="search" name="search" oninput="filterSubjects()">
+        
+        <div id="subjectCheckboxes">
+            {% for subject in subjects %}
+                <label>
+                    <input type="checkbox" name="selected_subjects" value="{{ subject }}"> {{ subject }}
+                </label>
+            {% endfor %}
+        </div>
+        
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <script>
+        function filterSubjects() {
+            var input, filter, checkboxes, label, i;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            checkboxes = document.querySelectorAll('#subjectCheckboxes label');
+            for (i = 0; i < checkboxes.length; i++) {
+                label = checkboxes[i];
+                if (label.textContent.toUpperCase().indexOf(filter) > -1) {
+                    label.style.display = "block";  // Show the label
+                } else {
+                    label.style.display = "none";   // Hide the label
+                }
+            }
+        }
+        function submitForm() {
+            var selectedSubjects = document.querySelectorAll('input[name="selected_subjects"]:checked');
+            var selectedSubjectsValues = Array.from(selectedSubjects).map(subject => subject.value);
+    
+            // Send an AJAX request to the /process route
+            fetch('/process', {
+                method: 'POST',
+                body: new URLSearchParams({ 'selected_subjects': selectedSubjectsValues }),
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Handle the processed result (data) as needed
+                console.log(data);
+                // You can update the DOM or perform other actions here
+            })
+            .catch(error => console.error('Error:', error));
+        }
+    </script>
+    
+</body>
+</html>

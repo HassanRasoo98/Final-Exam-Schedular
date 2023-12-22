@@ -1,0 +1,137 @@
+CS3002 Information Security 	BS(CS) (A,B,C,D,,E,F) 	BS(DS) N	 2020
+CS2007  Human Computer Interaction	BS(SE) (A,B,C,D,E,F,G) 	2022	
+CS4060  Human Computer Interaction	BS(CS) (A) 
+MG4011 Entrepreneurship 	BS(AI)-J	   2020
+CY3001 Networks and Cyber Security -II 2021  BS(CY) T
+CS3004 Software Design and Analysis 	 BS(CS)  (A,B,C,D,E,F,G,H,Y,Z) 	2021
+SE3002 Software Quality Engineering   BS(SE)-(PQ)	2021
+DS3003 Data Warehousing and Business Intellligence 	BS(DS) (M,N)	 2021
+CS4033  Data Warehousing   	BS(CS) -A	 2020
+CS4055 Digital Image Processing  BS(CS) A 2020
+CS2001 Data Structures   	BS(CS) (A,B,C,D,E,F,G, H, J, K)      BS(SE) (A,B,C,D,E,F,G) BS(AI) (A,B,D,E)	BS(DS) (A,B,C,D)	BS(CY) (A,B,C) 	2022	
+CS4049 Blockchain and Cryptocurrency 	BS(AI) J	BS(CS) (A)	BS(CY)-M	BS(SE) A	  2020
+SE3003 Web Engineering 	BS(SE) (P,Q)	 2021
+MT2002 Statistical Modelling	, BS(CS)                                  	 (A,B,C,D,E,F,G,H,Z)     	2021
+DS3001 Data Analysis and Visualization  	BS(DS)-MN   2021
+EE2003	Computer Organization and Assembly Language 	 BS(CS)                                  	 (A,B,C,D,E,F,G,H,J,K,Z)     	2022
+EE1005  Digital Logic Design	 BS(AI) (A,B,D,E)	BS(DS) (A,B,C,D)	BS(CY) (A,B,C,D) 	2022
+CS4075 Cloud Computing 	 BS(CS) A,	BS(SE)A,B 2020
+CS2005 Database Systems  BS(CS)	 A,B,C,D
+CS2005 Database Systems  	BS(AI) (J)	BS(CY)(T) 	BS(SE) (P) 	2021
+CS1005	Discrete Structures 	BS(CS)                                                         (A,B,C,D,E,F,G,H,J,K,Z)     	2022	
+AI4002 Computer Vision	  BS(AI) J,K 2020
+MG4033 Digital Marketing  2021  BS(CY) T 2021
+CS4001 Professional Practices in IT	BS(CS) (A,B,C,D,E,F) 	2020
+SE4002 Fundamentals of Software Project Management  	BS(SE) P,Q,R	2020
+CL1004 Object Oriented Programming Lab  	BS(AI) (A,B,C)	BS(CY) (A,B) 2022 R
+CS2004 Fundamentals of Software Engineering 	BS(DS) (A,B,C,D)	BS(CY) (A,B,C,D) 	2022
+SE1001 Introduction to Software Engineering
+CL1000 Introduction to Information and Communication Technology	BS(CS) (A,B,C,D,E,F,G)      BS(SE) (A,B) BS(AI) (A,B)	BS(DS) (A,B,C)	BS(CY) (A,B)	2023
+CS4044 Fundamentals of Software Project Management  	BS(CS) A,  2020
+SE4001 Software Re-Engineering 	BS(SE) PQR 2020
+SS2007 Technical and Business Writing 	BS(CS) (A,B,C,D,E,F,G) 	BS(AI) (J,K) 	BS(DS)-MNU	BS(SE)-PQ	2021
+CS3015 Robotics Technology  BS(CS)-A 2021
+CY2001 Networks and Cyber Security -I  BS(CY)-ABCD   2022
+MT1006 Differential Equations	 BS(CS)  ABCDE
+CS2008 Numerical Computing BS(CS) A
+SL3003 Web Engineering Lab	BS(SE) (P,Q)	 2021
+CS3001 Computer Networks	 BS(DS)	2020
+CS3009 Software Engineering 	BS(CS) A
+CL3001 Computer Networks Lab	 BS(DS) BDS-7N	2020
+CL1002   Programming Fundamentals  Lab	BS(SE) (A,B) BS(AI) (A,B)     	2023
+MG1007	Freelancing	BS(CS)  (A,B,C)	  2022        
+CL1002   Programming Fundamentals  Lab	BS(DS) (A,B,C)	BS(CY) (A,B)	2023
+CS2006 Operating Systems	BS(CS) (A,B, C,D) 	BS(AI) J&K	BS(CY) -T	BS(DS)-MN	BS(SE)- PQ	2021	
+MG1002 	 Marketing Management	BS(CS)  (A,B,C)	BS(AI) (AB)	BS(SE) (ABC)	  2022    
+SS2003 Psychology  	BS(CS) (A)	2022
+SL1012  Functional English  Lab	BS(CS) 	BS(SE) (A1,A2,B1,B2)    	 BS(AI) (A1,A2,B1,B2)	BS(DS) A1,A2,B1,B2,C1,C2,)	BS(CY) (A1,A2,B1,B2)	2023
+CS2009  Design and Analysis of Algorithms	BS(CS) ABCD
+CS2009  Design and Analysis of Algorithms	BS(AI) (J,K) 	 BS(CY)-T	 BS(DS)-MN	BS(SE)-(PQ)	2021
+CL2001 Data Structures Lab	BS(CS) (A,B,C,D,E,F,G, H, J, K)     	2022	
+CL2005 Database Systems  Lab	BS(AI) (J)	BS(CY)(T) 	BS(SE) (P) 	2021
+CL2005 Database Systems Lab BS(CS)	 A,B,C,D
+EL2003	Computer Organization and Assembly Language  lab	 BS(CS)                                  	 (A,B,C,D,E,F)     	2022
+EL1005  Digital Logic Design Lab	BS(CY) (A,B,C,D) 	2022
+CL2006 Operating Systems Lab	BS(CY) -T	2021	
+AL2001  Programming for AI Lab	 BS(AI)  ABCD  2022
+EL1005  Digital Logic Design Lab	BS(DS) (A,B,C,D)	2022
+AL2002	Artificial Intelligence Lab	BS(CS) (BSR-5A, BSR-5B) 	 2021
+CL2006 Operating Systems Lab	BS(DS)-MN	BS(SE)- PQ	BS(AI) J&K	2021	
+SS1012  Functional English  BS(CS) (A,B,C,D,E,F,G)  BS(SE) (A,B) BS(AI) (A,B)	BS(DS) (A,B,C)	BS(CY) (A,B)	2023
+SS1004 English Composition and Comprehension 	BS(CS)-A   
+DS2001 Introduction to Data Science	BS(DS)-ABCD	 2022
+AI2001  Programming for AI	 BS(AI)  ABCD  2022
+CS1004 Object Oriented Programming  	BS(CS) (A,B,C,D)      BS(SE) (A,B) BS(AI) (A,B,C)	BS(CY) (A,B) 2022 R
+SS1013 Ideology and Constitution of Pakistan	BS(SE) (A,B) BS(AI) (A,B)	BS(DS) (A,B,C)	BS(CY) (A,B)	2023
+SS1003 Pakistan Studies AB R
+SS1007 Islamic Studies/Ethics   BS(CS)                                                         BS(CS) (A,B,C,D,E,F,G,Z)   	2023
+SS1002 Islamic Studies/Ethics  	AB R
+AI2002	Artificial Intelligence	BS(CS) (BSR-5A, BSR-5B) 	 2021
+CY4001 Secure Software Design  BS(CY)-M 2020
+On Friday these exams  will start from 1:30 To 4:30 PM
+NS1001  Applied Physics   	 BS(CS) (A,B,C,D,E,F,G)      BS(SE) (A,B) BS(AI) (A,B)	BS(DS) (A,B,C)	BS(CY) (A,B)	2023
+CS4067 DevOps	  BS(CS) (A,B) 2020
+CS3005  Theory of Automata   	BS(CS) (A,B,C,D,E,F,G,H,Y,Z) 2021
+AI3002 Machine Learning	BS(AI) (J,K) 2021
+CS1002   Programming Fundamentals        	 BS(CS) (A,B,C,D,E,F,G)      BS(SE) (A,B) BS(AI) (A,B)	BS(DS) (A,B,C)	BS(CY) (A,B)	2023
+CL1004 Object Oriented Programming Lab  	BS(CS) (A,B,C,D)   2022 	BS(SE) (A,B)  2022 R
+CS3001 	Computer Networks  BS(CS) (A,B,C,D,E,F,G)	2021
+MT1004 Linear Algebra 	BS(CS)                                                         (A,B,C,D,E,F,G,H,J,K)     	 BS(SE) ABCDEFG)	2022
+AL4002 Computer Vision Lab	  BS(AI) J,K 2020
+CS4032 Web Programming   	 BS(CS) (A) 2020
+CS4045 Deep Learning for Perception  BS(CS) A	BS(DS) N	  2020
+CY3003 Information Assurance  BS(CY) M 2020
+SS2014 German Language	  BS(CS) (A)	BS(SE) (A)	2022
+MT1003   Calculus and Analytical Geometry  	   BS(CS) (A,B,C,D,E,F,G)      BS(SE) (A,B) BS(AI) (A,B)	BS(DS) (A,B,C)	BS(CY) (A,B)	2023
+AI3001 Knowledge Rep. and Reasoning BS(AI) (J,K) 2021
+CS4102 Introduction to Knowledge Graphs and Linked Data BS(CS)-A 2020
+CS5129 Knowledge Engineering and Linked Data	MS(AI)-A 
+SE2001	 Software Requirements Engineering	BS(SE) (ABCDEFG) 	2022	
+CS4061 Ethical Hacking Concepts and Practices	BS(CS) (A) 2020
+ CS5113 Ethical Hacking  MS(CNS)-A
+CL1002   Programming Fundamentals  Lab	 BS(CS) (A,B,C,D,E,F,G)     	2023
+MT2005  Probability and Statistics  	, BS(DS)-ABCD	BS(AI)-ABCD	BS(CY)- ABCD	 2022
+CS4039	Software for Mobile Devices	BS(CS)A,B )2020
+CS4085 MLOps	BS(AI)-A, BS(CS) A 	2020
+CS6003Advanced Topics in NLP PhD(CS)
+CS6007Medical Image Processing PhD(CS)
+CS3006  Parallel and Distributed Computing	BS(CY) (M)  2020
+ CS4063 Natural Language Processing	BS(CS) (A,) BS(SE)(A) 2020
+CS3006  Parallel and Distributed Computing	BSCS)-A
+SL1012  Functional English  Lab	BS(CS) (A1,A2,B1,B2,C1,C2,D1,D2,E1,E2,F1,F2,G1,G2)  	2023
+SL1004 English Composition and Comprehension Lab	BS(CS)-A   
+MG1001	Fundamentals of Management 	 BS(CS)-A	BS(AI)-AB	BS(SE)-ABC	2022
+CL2001 Data Structures Lab	BS(CY) (A,B,C) 	2022	
+CYL4001 Secure Software Design Lab BS(CY)-M 2021
+CL2001 Data Structures Lab	BS(SE) (A,B,C,D,E,F,G) BS(AI) (A,B,D,E)	BS(DS) (A,B,C,D)	2022	
+EL2003	Computer Organization and Assembly Language  lab	 BS(CS)                                  	 (G,H,J,K,Z)     	2022
+AL3002 Machine Learning Lab	BS(AI) (J,K) 2021
+CL3001 	Computer Networks  Lab BS(CS) (A,B,C,E,F,G,Z)	2021
+EL1005  Digital Logic Design Lab	 BS(AI) (A,B,C,D)	2022
+DL3001 Data Analysis and Visualization Lab	BS(DS)-MN   2021
+CL2006 Operating Systems Lab	BS(CS) (A,B, C,D) 	2021	
+CS5009 Advanced Operating Systems MS(CS) A
+DS5002  Data Science Tools and Techniques MS(DS) A
+CS5005 Advanced Analysis of Algorithms MS(CS) A
+DS5003  Statistical and Mathematical Methods for DS  MS(DS) A
+CS6033Statistical and Mathematical Methods for DS  PhD(CS)
+CS2001 Data Structures   MS(Diff)  A
+CS5001 Research Methodology 	MS(CS DS)-MCS-3A, MDS-3A
+SE5003	Advance Software Architecture MS(SE) A
+CS5010 Applied Information Security  	MS(CNS)-A 
+AI5002 Mathematical Foundation of AI  MS(AI)-A
+DS5006 Deep Learning  MS(CS, DS) MCS-3A, MDS-3A
+CS5012 Advanced Computer Networks MS(CNS) A
+AI5001 Advanced Artificial Intelligence MS(AI) A
+CS6041Recent Advances in Agent-Based Modeling  PhD(CS)
+SE5032 Empirical Software Engineering  MS(SE) A
+CS5035 Applied Image Processing   	MS(CS)
+SE5007	Responsible Design MS(SE) A
+DS5007 Natural Language Processing  MS(DS)  A
+CS4002 Applied Programming 	MS(CS)-A,MS(DS)-A
+CS5043  Cloud Computing 	 MS(CS) A
+CS6001Advanced Topics in CS  PhD(CS)
+SE5002	Advanced Quality Assurance MS(SE) A
+CY5002Machine Learning for Cyber Security  MS(CNS) A
+DS5004 - Machine Learning for Data Science MDS-3A
+CS6018Recent Advances in Deep Learning PhD(CS)
